@@ -1,4 +1,4 @@
-### How to install Docker on Ubuntu 18.04
+## How to install Docker on Ubuntu 18.04
 
 ```
 sudo apt update
