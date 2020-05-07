@@ -9,7 +9,7 @@ apt-cache policy docker-ce
 
 #### 결과
 
-<img src="./img/installed_none" title="res"></img>
+<img src="./img/installed_none.png" title="res"></img>
 
 `Installed: (none)` 확인
 
@@ -24,4 +24,4 @@ sudo apt install docker-ce
 sudo systemctl status docker
 ```
 
-<img src="./img/status_docker" title="status"></img>
+<img src="./img/status_docker.png" title="status"></img>
