@@ -1,3 +1,5 @@
+### How to install Docker on Ubuntu 18.04
+
 ```
 sudo apt update
 sudo apt install apt-transport-https ca-certificates curl software-properties-common
@@ -7,7 +9,7 @@ sudo apt update
 apt-cache policy docker-ce
 ```
 
-#### 결과
+#### Result
 
 <img src="./img/installed_none.png" title="res"></img>
 
@@ -19,7 +21,7 @@ sudo apt install docker-ce
 
 
 
-#### 도커 정상 실행 확인
+#### Check docker running status
 ```
 sudo systemctl status docker
 ```
